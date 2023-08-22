@@ -4,7 +4,7 @@
 
 ![image](https://github.com/techerbeatrice/DHCP_windows/assets/138071140/86ff4ad4-898a-4149-a9d7-aad5d082715c)
 
-✔ Donner le rôle DHCP à windows Server, aller dans Gérer --> Ajouter des rôles et fonctionnalités --> Dans Type d'installation, sélectionner Installation basée sur un rôle ou une fonctionnalité --> Dans sélection du serveur --> Sélectionner un serveur du pool de serveurs --> Sélectionnner le serveur de destination --> Dans la liste des rôles, cochez Serveur DHCP
+✔ Donner le rôle DHCP à windows Server, pour cela aller dans Gérer --> Ajouter des rôles et fonctionnalités --> Dans Type d'installation, sélectionner Installation basée sur un rôle ou une fonctionnalité --> Dans sélection du serveur --> Sélectionner un serveur du pool de serveurs --> Sélectionnner le serveur de destination --> Dans la liste des rôles, cochez Serveur DHCP
 
 ![image](https://github.com/techerbeatrice/DHCP_windows-server/assets/138071140/ec8351da-245a-4833-8db1-194e5bd42969)
 
@@ -23,7 +23,7 @@
 
 ![image](https://github.com/techerbeatrice/DHCP_windows/assets/138071140/37dc76b1-339f-40ec-8930-d409a57690d1)
 
-✔Pour donner une adresse IP au serveur, ouvrir Centre Réseau et Partage --> Modifier les paramètres de la carte --> Clique-droit sur Ethernet --> Propriétés --> Double-Clic sur Protocole Internet version 4 (TCP/IPv4) --> Dans Utiliser l'adresse suivante : _renseigner une adresse IP_ puis cocher _Valider les paramètres_ en quittant.
+✔Pour donner une adresse IP au serveur, pour cela ouvrir Centre Réseau et Partage --> Modifier les paramètres de la carte --> Clique-droit sur Ethernet --> Propriétés --> Double-Clic sur Protocole Internet version 4 (TCP/IPv4) --> Dans Utiliser l'adresse suivante : _renseigner une adresse IP_ puis cocher _Valider les paramètres_ en quittant.
 
 ![image](https://github.com/techerbeatrice/DHCP_windows/assets/138071140/707ff9bc-eea1-43d2-9ca4-1c3cc22b07b8)
 
