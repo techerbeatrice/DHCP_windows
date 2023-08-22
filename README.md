@@ -35,7 +35,7 @@
 
 ![image](https://github.com/techerbeatrice/DHCP_windows/assets/138071140/60dcc39e-9fed-45b8-8e58-69c47432fd54)
 
-✔Réservation statique de l'adresse IP 172.20.0.10 par le serveur DHCP à une machine cliente, en renseignant l'adresse MAC de celle-ci.
+✔Réservation statique de l'adresse IP 172.20.0.10 par le serveur DHCP à la machine cliente, en renseignant l'adresse MAC de celle-ci.
 
 ![image](https://github.com/techerbeatrice/DHCP_windows/assets/138071140/37eb82e3-45f9-4f47-83a8-c6077ed66179)
 
