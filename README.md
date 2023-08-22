@@ -1,6 +1,6 @@
-# DHCP sur windows : installation, configuration et test
+# DHCP sur windows Server : installation, configuration et test
 
-✔Configuration de la carte réseau en Réseau Interne d'une machine virtuelle qui va servir de serveur DHCP sous windows.
+✔Configuration de la carte réseau en Réseau Interne d'une machine virtuelle qui va servir de serveur DHCP sur windows Server.
 
 ![image](https://github.com/techerbeatrice/DHCP_windows/assets/138071140/86ff4ad4-898a-4149-a9d7-aad5d082715c)
 
@@ -14,9 +14,9 @@
 
 ![image](https://github.com/techerbeatrice/DHCP_windows/assets/138071140/37dc76b1-339f-40ec-8930-d409a57690d1)
 
-✔Pour donner une adresse IP au serveur, ouvrir Centre Réseau et Partage --> Modifier les paramètres de la carte --> Clique-droit sur Ethernet --> Propriétés --> Double-Clic sur Protocole Internet version 4 (TCP/IPv4) --> Dans Utiliser l'adresse suivante : _renseigner une adresse IP_ puis _cocher les paramètres en quittant_.
+✔Pour donner une adresse IP au serveur, ouvrir Centre Réseau et Partage --> Modifier les paramètres de la carte --> Clique-droit sur Ethernet --> Propriétés --> Double-Clic sur Protocole Internet version 4 (TCP/IPv4) --> Dans Utiliser l'adresse suivante : _renseigner une adresse IP_ puis _cocher Valider les paramètres en quittant_.
 
-![image](https://github.com/techerbeatrice/DHCP_windows/assets/138071140/b0acb679-f26b-43e1-a838-d472177871cb)
+![image](https://github.com/techerbeatrice/DHCP_windows/assets/138071140/707ff9bc-eea1-43d2-9ca4-1c3cc22b07b8)
 
 ✔Configuration du serveur DHCP pour qu'il fournisse des adresses IP de la plage 172.20.0.100 à 172.20.0.200 sur le réseau 172.20.0.0/24
 
