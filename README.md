@@ -39,11 +39,11 @@
 
 ![image](https://github.com/techerbeatrice/DHCP_windows/assets/138071140/37eb82e3-45f9-4f47-83a8-c6077ed66179)
 
-Le serveur DHCP a bien attribué l'adresse IP 172.20.0.10 à la machine cliente.
+- Le serveur DHCP a bien attribué l'adresse IP 172.20.0.10 à la machine cliente.
 
 ![image](https://github.com/techerbeatrice/DHCP_windows-server/assets/138071140/ee24476f-9ea3-44b9-b170-c5126d5b1b8e)
 
-et même si la machine cliente perd l'adresse IP 172.20.0.10 qui lui a été attribuée par le serveur DHCP avec la commande ipconfig /release,
+- et même si la machine cliente perd l'adresse IP 172.20.0.10 avec la commande ipconfig /release,
 en refaisant une nouvelle demande d'adresse IP avec la commande ipconfig /renew, la même adresse lui est à nouveau attribuée par le serveur DHCP.
 
 ![image](https://github.com/techerbeatrice/DHCP_windows-server/assets/138071140/c122a47a-9f9a-4fd1-b6e4-f2a7ce23a5dc)
