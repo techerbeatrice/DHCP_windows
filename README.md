@@ -1,5 +1,13 @@
 # DHCP sur windows Server : installation, configuration et test
+
+
+#### Les étapes :
+#### Installation du rôle DHCP
+#### Configuration du service DHCP
+#### Test
+
 ___
+
 ✔Configuration de la carte réseau en Réseau Interne d'une machine virtuelle qui va servir de serveur DHCP sur windows Server.
 
 ![image](https://github.com/techerbeatrice/DHCP_windows/assets/138071140/86ff4ad4-898a-4149-a9d7-aad5d082715c)
