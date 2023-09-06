@@ -45,7 +45,7 @@ ___
 ___
 ✔Pour donner une adresse IP au serveur, pour cela ouvrir Centre Réseau et Partage --> Modifier les paramètres de la carte --> Clique-droit sur Ethernet --> Propriétés --> Double-Clic sur Protocole Internet version 4 (TCP/IPv4) --> Dans Utiliser l'adresse suivante : _renseigner une adresse IP_ puis cocher _Valider les paramètres_ en quittant.
 
-![image](https://github.com/techerbeatrice/DHCP_windows/assets/138071140/707ff9bc-eea1-43d2-9ca4-1c3cc22b07b8)
+![image](https://github.com/techerbeatrice/DHCP_windows-server/assets/138071140/a62ca4a4-01c7-4541-83fd-cc4b8982cedd)
 ___
 ✔Configuration du serveur DHCP pour qu'il fournisse des adresses IP de la plage 172.20.0.100 à 172.20.0.200 sur le réseau 172.20.0.0/24
 
